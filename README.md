@@ -1,4 +1,4 @@
-# [RuneWatch](https://runewatch.com)
+# ![alt text](https://runewatch.com/assets/media/branding/header-200.png?id=fb06a9744efcbab650e4)
 
 A RuneLite plugin to pull rsn's from the RuneWatch 
 API endpoint to alert the player of when interacting with players with an rsn which matches the list
